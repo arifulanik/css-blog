@@ -1,0 +1,38 @@
+
+span{
+    color:violet;
+}
+.sajek{
+    background-color: rgb(64, 160, 224);
+    border : 2px snow dashed;
+    border-radius: 15px;
+    margin: 10px auto;
+    padding: 20px;
+    width: 50%;
+}
+.saint-martin{
+    background-color: tomato;
+    border: 2px  solid blue;
+    border-radius: 15px;
+    margin: 10px auto;
+    padding: 20px;
+    text-align: justify;
+    width: 50%;
+}
+.coxs-bazar{
+    background-color:rgb(74, 141, 113);
+    border:2px solid pink;
+    border-radius: 15px;
+    margin: 0 auto;
+    padding: 20px;
+    width: 50%;
+    text-align: justify;
+}
+h3.blog-title
+{
+    text-align: center;
+}
+.sajek p{
+     color: tan;
+     text-align: justify;
+}
